@@ -1,0 +1,11 @@
+{
+    "bg": "blue",
+    "picture_box": "yellow",
+    "listbox": "green",
+    "filterbox": "orange",
+    "btn_open": "yellow",
+    "btn_save": "red",
+    "filename_entry_bg": "gray",
+    "filename_entry_fg": "white",
+    "btn_save_font": "Times New Roman"
+}
